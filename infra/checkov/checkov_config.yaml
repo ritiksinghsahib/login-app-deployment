@@ -1,0 +1,5 @@
+
+checkov:
+  download_external_modules: true
+  quiet: false
+  soft_fail: false

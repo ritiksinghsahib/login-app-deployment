@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/your-org/login-app
-    targetRevision: HEAD
+    targetRevision: main
     path: app/k8s
   destination:
     server: https://kubernetes.default.svc
